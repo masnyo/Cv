@@ -30,7 +30,7 @@ Mahira Wijaya
     </svg>
     <!-- Profile circle with photo and progress ring -->
     <div class="relative w-36 h-36 rounded-full bg-yellow-400 flex items-center justify-center">
-     <img alt="Profile photo of Mahira Wijaya Bekti Artadi wearing red jacket and black tie" class="rounded-full w-32 h-32 object-cover z-10" height="144" src="https://storage.googleapis.com/a1aa/image/f56351a3-294e-4639-77df-899629225f22.jpg" width="144"/>
+     <img alt="Profile photo of Mahira Wijaya Bekti Artadi wearing red jacket and black tie" class="rounded-full w-32 h-32 object-cover z-10" height="144" src="https://drive.google.com/file/d/11kHXnWRCbcsgqYaTF9QNfysTadc1CkjD/view?usp=drivesdk" width="144"/>
      <svg class="absolute top-0 left-0 w-36 h-36" fill="none" viewbox="0 0 144 144" xmlns="http://www.w3.org/2000/svg">
       <circle cx="72" cy="72" r="64" stroke="#fff" stroke-opacity="1" stroke-width="16">
       </circle>
